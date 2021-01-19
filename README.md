@@ -1,7 +1,7 @@
 Hello-World
 
 ### App Description
-App has a button which changes the color of the text.
+App has a button which changes the color of the customised text.
 
 ### App Walk-though
 <img src= "https://i.imgur.com/V9bMlbR.gif" width=200><br>
